@@ -1,0 +1,6 @@
+notes
+
+color of ironskydive web-page
+rgb(67, 163, 230) blue
+rgb(25,33,41) dark blue
+rgb(0,0,0) text black
